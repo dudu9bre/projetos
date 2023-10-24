@@ -1,2 +1,2 @@
 # projetos
- meus projetos e desafios de cursos etc
+ meus projetos e desafios
