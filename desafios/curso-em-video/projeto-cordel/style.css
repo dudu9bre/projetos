@@ -80,6 +80,10 @@ section {
     text-shadow: 1px 1px 0px black;
 }
 footer {
+    font-family: var(--fonteps);
+    font-variant: small-caps;
+    font-size: 1.3em;
+    font-weight: normal;
     padding: 2vh;
     background-color: black;
     text-align: center;
