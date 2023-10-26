@@ -54,6 +54,9 @@ section {
     line-height: 2em;
     font-size: 3.5vw;
 }
+section > p {
+    padding-bottom: 2em;
+}
 .normal {
     background-color: white;
     color: black;
