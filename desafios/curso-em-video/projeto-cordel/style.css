@@ -73,6 +73,7 @@ section > p {
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    box-shadow: inset 6px 6px 13px rgba(0, 0, 0, 0.479);
 }
 .paralax > p {
     color: white;
